@@ -9,7 +9,7 @@ Installation
 
 Before installing this app, installing node is required.
 ```bash
-$ git clone https://gitlab.com/kareemadel/node-notes.git
+$ git clone https://github.com/kareemadel/node-notes.git
 $ cd node-notes
 $ npm install
 ```
